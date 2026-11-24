@@ -10,6 +10,7 @@ I learn by building software and investigating how the underlying systems work. 
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| [EdgeLLM-Bench](https://github.com/agibuilder95-lang/edge-llm-bench) | A Python tool for reproducible client-side LLM inference measurements. | Public MVP |
 | [EverTask](https://github.com/agibuilder95-lang/evertask) | An AI-assisted study planner with a calendar, learning tasks, and teacher mode. | Public MVP |
 | Drift | Exploring a desktop assistant that uses activity context to support focused work. | Experiment |
 | Judua | Exploring a local-first runtime for controlled, observable AI tool execution. | Early research |
